@@ -6,6 +6,10 @@
 
 > CLI {command line interface}는 명령어를 통해 컴퓨터에게 여러가지 명령을 할 수 있다.
 
+> windows가 아니라 linux 명령어임
+
+
+
 
 
 ## ls
