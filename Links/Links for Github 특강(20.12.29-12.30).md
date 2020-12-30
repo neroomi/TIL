@@ -12,6 +12,9 @@
   - `https://fontawesome.com/icons?d=gallery&m=free` 
 - Bitbucket - 대표적 코드 관리 사이트
   - `https://bitbucket.org`
+- gitignore.io - 무시해야할 요소 넣으면 코드를 만들어 줌
+  - `https://www.toptal.com/developers/gitignore`
+  - 중요한 정보, 개인 정보 등은 잘 가려주어야 함
 
 
 
@@ -26,3 +29,6 @@
   - `send_a_dev_to_nepal`
 - **Kebab Case**
   - `send-a-dev-to-nepal`
+
+- **No 한글**
+- **No Space**
